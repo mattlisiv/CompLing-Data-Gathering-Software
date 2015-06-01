@@ -1,0 +1,24 @@
+10-K Codes
+
+CF2013 - CareFusion 2013
+CP2013 - Conoco Phillips 2013
+IN2013 - Intuit 2013
+MA2013 - Marathon 2013
+RE2013 - Regions 2013
+VI2013 - Visa 2013
+GE2013 - GE 2013
+
+These 6 characters must be at the start of the experiment code to initiate experiment.
+
+
+
+The following were not able to be parsed by XML Tagger:
+MEDTRONIC2013
+MCGRAWHILL2013
+MRO2013
+MMM2013
+
+
+
+
+
