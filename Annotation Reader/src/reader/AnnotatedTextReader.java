@@ -3061,10 +3061,10 @@ public void unboldSurroundingText(JTextPane textPane, int index) throws BadLocat
 	//SFTP of File //
 	static public void SFTP(File file) throws JSchException{
 		
-		String SFTPHOST = "172.22.147.18";
+		String SFTPHOST = "";
 		int SFTPPORT = 22;
-		String USER = "sentiment";
-		String PW = "plusorminus7";
+		String USER = "";
+		String PW = "";
 		
 		JSch jsch = new JSch();
 		try{
